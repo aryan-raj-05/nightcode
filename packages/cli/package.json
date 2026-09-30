@@ -13,9 +13,11 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "@opentui/core": "^0.5.11",
-    "@opentui/react": "^0.5.11",
-    "react": "^19.2.8"
+    "@opentui/core": "0.5.11",
+    "@opentui/react": "0.5.11",
+    "opentui-spinner": "^0.0.7",
+    "react": "^19.2.8",
+    "react-router": "^8.4.0"
   },
   "engines": {
     "bun": ">=1.3.0"
